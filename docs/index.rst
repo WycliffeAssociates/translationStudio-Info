@@ -6,7 +6,7 @@
 translationStudio v11.1 Documentation
 ===============================
 
-This site is the official documentation for translationStudio.
+Here is documentation for using the translationStudio program.
 
 
 Contents:
